@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neus&family=Poppins:ital,wght@0,400;0,500;1,500&display=swap');
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+}
+
+.nav-bar{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-buttons{
+    font-family: "Poppins", sans-serif;
+    width: 35%;
+    color : #333333;
+}
+
+.nav-buttons ul{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-buttons ul li{
+    list-style: none;
+}
+
+.body{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+
+}
+
+.left, .right{
+    width: 50%;
+}
+
+.right img{
+    width: -webkit-fill-available;
+}

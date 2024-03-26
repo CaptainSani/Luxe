@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neus&family=Poppins:ital,wght@0,400;0,500;1,500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins, sans-serif";
+  font-weight: 400;
+  height: 100vh;
+  background-image: url(../src/assets/color\ blur.png);
+  background-repeat: no-repeat;
+}
+
+
+
+.service{
+  margin-top: -80px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
